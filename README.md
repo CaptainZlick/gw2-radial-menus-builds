@@ -2,7 +2,7 @@
 A [Radial Menus](https://github.com/RaidcoreGG/GW2-RadialMenus) pack.
 
 ## General
-This pack changes the Build and Equipment Template to the selected number
+A simple pack to change your Build and Equipment Template to the selected one in one go.
 ![Preview](./img/preview.png)
 
 ## Installation
