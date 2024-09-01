@@ -1,6 +1,8 @@
 # Radial Menus Builds
 A [Radial Menus](https://github.com/RaidcoreGG/GW2-RadialMenus) pack.
 
+## General
+This pack changes the Build and Equipment Template to the selected number
 ![Preview](./img/preview.png)
 
 ## Installation
