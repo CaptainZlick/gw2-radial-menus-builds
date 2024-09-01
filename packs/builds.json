@@ -238,7 +238,7 @@
 					},
 					"Identifier": 185,
 					"OnlyExecuteIfPrevious": false,
-					"Type": 3
+					"Type": 2
 				},
 				{
 					"Activation": {
@@ -256,7 +256,7 @@
 					},
 					"Identifier": 174,
 					"OnlyExecuteIfPrevious": false,
-					"Type": 3
+					"Type": 2
 				}
 			],
 			"Activation": {
